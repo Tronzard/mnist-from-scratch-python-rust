@@ -1,0 +1,7 @@
+[package]
+name = "mnist-from-scratch-rust"
+version = "0.1.0"
+edition = "2024"
+description = "Dependency-free MNIST MLP with manual backpropagation"
+
+[dependencies]
